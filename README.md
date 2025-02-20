@@ -55,7 +55,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/leonliuzx2/personal-website.git
+git clone 
 
 # 安装依赖
 npm install
